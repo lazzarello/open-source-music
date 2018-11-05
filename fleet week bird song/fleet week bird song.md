@@ -1,5 +1,9 @@
 # Fleet Week Bird Song
 
+[Listen](https://soundcloud.com/lazzarello/fleet-week-bird-song)
+
+![picture](f18-formation-gg-bridge-sm.jpg)
+
 ## Sound
 
 Every year in San Francisco, Navy pilots in a group named The Blue Angels fly F-18 jets over the city and around the bay. For the disoriented, this event can be very alarming. A show of USA air supiriority, many residents have visceral reactions to the screaming jets, thunderous roars, angular noise and doppler sound effects.
