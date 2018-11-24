@@ -1,5 +1,9 @@
 I gave an AI all the Tricky songs and this is what it wrote!
 
+[Listen](https://soundcloud.com/lazzarello/tricky-ai)
+
+![picture](background.png)
+
 lol j/k
 
 This piece has three main components
